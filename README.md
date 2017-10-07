@@ -1,2 +1,2 @@
-# jupyter-1
+# jupyter-sandbox
 My first test Azure Jupyter library
